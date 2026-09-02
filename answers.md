@@ -50,5 +50,46 @@ Untracked files:
         Readme.md
     
 Answer 7: 
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Readme.md
+
+Answer 8:
+commit cd4ab4c5c06dbf1fcf6e4b9c07bc6080c2069d77 (HEAD -> master)
+Author: Joshua Jordan <jj148525@ohio.edu>
+Date:   Wed Sep 2 17:04:13 2026 -0400
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Readme.md
+
+Answer 10:
+The changes were not reflected on my local copy.
+
+Answer 11:
+I recieved an error
+
+Answer 12:
+Yes, the changes were reflected on my local copy.
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
+
+Answer 14:
 
 
